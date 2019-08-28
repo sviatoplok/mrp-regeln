@@ -1,0 +1,5 @@
+Für die Transformation in TEI wäre es besser wenn wir künftig die TOP nach dem Kopfregest als Liste mit Absätzen eingeben würden.
+
+Sonst erkennt die Transformation nämlich alle römischen Zahlen als TOP, auch III. Rangsklasse etc.
+
+Für die Druckversion könnten wir die Liste dann wieder in einen einzigen Absatz umwandeln.
