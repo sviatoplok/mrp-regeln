@@ -1,0 +1,3 @@
+ Ortsnamen in Institutionenbezeichnungen werden nicht als Ortsname ON sondern als Teil der Institutionenbezeichnungen ausgezeichnet.
+ Also z. B. wird in *Wiener Städtische Versicherung* Wien nicht als Ort ausgezeichnet.
+ EBENSO werden in Bahnlinien die ON nicht als ON ausgezeichnet wie etwa in der *Lokalbahn Petrowitz – Karwin* weder Petrowitz noch Karwin augezeichnet bzw. indiziert werden.
