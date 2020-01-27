@@ -1,6 +1,6 @@
 # Zitat für Abschriften
 
-tschechische: *RS. fehlt. Abschrift v. Tagesordnungspunkt I, VII u. XVI*, Abschriften ČSR, Ava. Ministerratsprotokolle, Karton 38.
+tschechische: *RS. fehlt. Abschrift v. Tagesordnungspunkt I, VII u. XVI*, Abschriften ČSR, Ava. Ministerratsprotokolle, Karton 38.  
 (wobei wir auf evtl. Umschachtelung von Karton 38 achten müssen)
 
 Abschriften Alexy

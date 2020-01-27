@@ -1,5 +1,7 @@
-Beim --> Codieren für APIS muss ich immer wieder neue Kategorien für APIS erfinden. Z.B. Institution types. 
+Beim --> Codieren für APIS muss ich immer wieder neue Kategorien für APIS erfinden. Z.B. Institution types.
+
 Das dauert mir zu lange. Deshalb trage ich sie einfach mit den Codes ein.
+
 Diese sammle ich hier, damit sie einheitlich sind.
 
 it=
@@ -28,7 +30,7 @@ Orden 2. Klasse
 Orden 3. Klasse
 politische Gruppierung
 politische Partei
-Privatwirtschaft
+Privatwirtschaft  
 Produktionsstätte
 provisorische Regierung
 Regierung

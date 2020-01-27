@@ -2,15 +2,16 @@ Um schneller Einträge für APIS erstellen zu können, erstelle ich jeweils imme
 
 Achtung: Eintrag muss mit < beginnen, damit klar ist, dass der Inhalt später in Felder/Feldeinträge umgewandelt werden muss!
 
-ct=	Collection types 
+ct=	Collection types
 e=	end
-iir=	Institution institution relations 
-iplcr=	Institution place relations 
-it=	Institution types 
-pir=	Person institution relations 
-plcplcr=	Place place relations 
-plct=	Place types 
-pplcr=	Person place relations 
-ppr=	Person person relations 
+iir=	Institution institution relations
+iplcr=	Institution place relations
+it=	Institution types
+pir=	Person institution relations
+plcplcr=	Place place relations
+plct=	Place types
+pplcr=	Person place relations
+ppr=	Person person relations
 s=	start
-ti=	Titles 
+ti=	Titles
+  

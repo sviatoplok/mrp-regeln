@@ -1,6 +1,6 @@
 # Vorgeschichte von Tagesordnungspunkten verbinden
 
-wenn in einem Protokoll die Vorgeschichte, Genese eines Themas behandelt wird, verweisen wir in dem Anschlussprotokoll 
+wenn in einem Protokoll die Vorgeschichte, Genese eines Themas behandelt wird, verweisen wir in dem Anschlussprotokoll
 und auch in späteren verbundenen Protokollen darauf:
 
 also nicht nur Siehe MR. v. ... oder "Fortsetzung d. MR. v. ..." sondern auch "zur Vorgeschichte des Gegenstandes, siehe MR. v. ...",
