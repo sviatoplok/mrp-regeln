@@ -7,4 +7,4 @@
 3) Wenn nicht das genaue Datum bekannt ist, wird das früheste Datum verwendet, zu dem es eine Erwähnung des Sachverhaltes gibt, in diesem Fall vor das Datum `notAfter` setzen:
 >` {{notAfter 1918-06-18@Reduktion der Brotquote}}`
 
-4) in Situationen, in denen eine Erstnennung aber kein konkretes Enddatum bekannt ist, wird `notBefore` eingefügt.
+4) in Situationen, in denen eine Erstnennung bekannt ist, aber kein konkretes Enddatum, wird `notBefore` eingefügt.
