@@ -1,7 +1,0 @@
-Falls in einem TOP ein Ort vorkommt, aber nicht genannt wird, weil der Ortsname verbrannt ist, muss er dennoch ausgezeiochnet wreden, weil sonst der Ortsname nicht im register aufscheinen würde.
-
-Da wir aber die TO nicht auszeichnen, muss ein Textteil im TOP gefunden werden, der mit dem Geolnk ausgezeichnet werden kann.
-
-z.B. Der allfällige Mehraufwand wurde im Rechnungsabschlusse der *Ge*[]
-
-Ge hätte wahrscheinlich Gemeinde heißen sollten, hier setze ich den Link!
