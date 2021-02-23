@@ -1,9 +1,4 @@
-# mrp-regeln ist für alles, was während des Edierens auftaucht 
-
-und so aussieht als wäre es etwas Regelmäßiges, 
-
-das Teil der Editionsrichtlinien werden könnte, 
-
-damit wir es alle wissen und uns daran halten können 
-
-oder es modifizieren. :pen:
+# Hier gibt es alle Regeln für die Edition Ministerratsprotokolle.
+# ...zu finden im WIKI...
+## ...das ist der _tab_ oben rechts.
+ :pen:
