@@ -1,3 +1,4 @@
-# Alle Regeln stehen jetzt im WIKI
-Siehe den tab oben rechts!
+# Hier gibt es alle Regeln für die Edition Ministerratsprotokolle.
+# ...zu finden im WIKI...
+## ...das ist der _tab_ oben rechts.
  :pen:
