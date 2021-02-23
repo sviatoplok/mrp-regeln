@@ -1,3 +1,0 @@
-# Kopfregest Brandakten wenn TO verbrannt
-
-_Teilnehmer und Tagesordnung_, AVA., Ministerratsprotokolle, Tagesordnungen.
