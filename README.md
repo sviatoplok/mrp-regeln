@@ -1,4 +1,3 @@
-# Hier gibt es alle Regeln für die Edition Ministerratsprotokolle.
-# ...zu finden im WIKI...
-## ...das ist der _tab_ oben rechts.
+# Das ist jetzt übersiedelt!
+https://gitlab.com/acdh-oeaw/ministerratsprotokolle/mp-regeln/-/wikis/pages
  :pen:
